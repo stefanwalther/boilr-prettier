@@ -1,0 +1,22 @@
+{
+  "name": "boilr-prettier",
+  "version": "1.0.0",
+  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanwalther/boilr-prettier.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stefanwalther/boilr-prettier/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/boilr-prettier#readme",
+  "description": "Boilr template for a .prettierrc config file.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
