@@ -37,5 +37,4 @@ Get a list of all - locally installed - templates:
 
 ```
 $ boilr template list
-```st
 ```
